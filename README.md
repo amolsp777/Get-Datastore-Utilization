@@ -62,7 +62,7 @@ style='font-family:Wingdings'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp
 
 <p class=MsoNoSpacing style='margin-left:.5in'><img border=0 width=581
 height=380 id="Picture 2"
-src="Get%20Datastore%20utilization-@mol_files/image002.png"></p>
+src="Document/Get%20Datastore%20utilization-@mol_files/image002.png"></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in'>&nbsp;</p>
 
@@ -72,7 +72,7 @@ style='font-family:Wingdings'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp
 
 <p class=MsoNoSpacing style='margin-left:.5in'><img border=0 width=436
 height=374 id="Picture 3"
-src="Get%20Datastore%20utilization-@mol_files/image003.png"></p>
+src="Document/Get%20Datastore%20utilization-@mol_files/image003.png"></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in'>&nbsp;</p>
 
@@ -82,7 +82,7 @@ style='font-family:Wingdings'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp
 
 <p class=MsoNoSpacing style='margin-left:.5in'><img border=0 width=441
 height=374 id="Picture 4"
-src="Get%20Datastore%20utilization-@mol_files/image004.png"></p>
+src="Document/Get%20Datastore%20utilization-@mol_files/image004.png"></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in'>&nbsp;</p>
 
@@ -93,7 +93,7 @@ style='font-family:Wingdings'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp
 
 <p class=MsoNoSpacing style='margin-left:.5in'><img border=0 width=678
 height=146 id="Picture 5"
-src="Get%20Datastore%20utilization-@mol_files/image005.png"></p>
+src="Document/Get%20Datastore%20utilization-@mol_files/image005.png"></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
