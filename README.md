@@ -50,7 +50,7 @@ style='font-family:Wingdings'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp
 
 <p class=MsoNoSpacing style='margin-left:.5in'><img border=0 width=435
 height=379 id="Picture 1"
-src="Get%20Datastore%20utilization-@mol_files/image001.png"></p>
+src="Document/Get%20Datastore%20utilization-@mol_files/image001.png"></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in'>&nbsp;</p>
 
